@@ -3,7 +3,7 @@
 ### Dataset: http://archive.ics.uci.edu/ml/datasets/online+retail
 
 ### 1. RFM in Python 
-#### Goal: Practice RFM customer segmentation in Python using K-means clustering
+#### Goal: Implement RFM customer segmentation in Python using K-means clustering
 #### Libraries: 
 - seaborn
 - pandas
