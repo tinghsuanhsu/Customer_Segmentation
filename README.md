@@ -10,7 +10,7 @@
 - sklearn
 - datetime
 
-### 2. EDA, K-Means, and GMM on Mall Customer Data in Python 
+### 2. EDA, K-Prototypes on Mall Customer Data in Python 
 ### Dataset: https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 #### Libraries: 
 - seaborn
